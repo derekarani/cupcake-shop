@@ -1,0 +1,8 @@
+.pricedrop  {
+  text-decoration: line-through;
+}
+
+.price {
+  font-weight: bolder;
+  text-decoration-color: red;
+}
