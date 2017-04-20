@@ -16,10 +16,7 @@
 
 .secondrow {
     display: inline-block;
-    align-content: center ;
 
-}
-img{
-  width: 250px
-  height:250px
+    padding: 90px;
+
 }
