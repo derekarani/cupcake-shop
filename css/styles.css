@@ -6,3 +6,20 @@
   font-weight: bolder;
   text-decoration-color: red;
 }
+
+.centre  {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+
+.secondrow {
+    display: inline-block;
+    align-content: center ;
+
+}
+img{
+  width: 250px
+  height:250px
+}
